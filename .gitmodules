@@ -1,0 +1,9 @@
+[submodule "drone-stack"]
+	path = drone-stack
+	url = .\\drone-stack\\
+[submodule "drone_vision_model"]
+	path = drone_vision_model
+	url = .\\drone_vision_model\\
+[submodule "yolo-ratm-gate-detection"]
+	path = yolo-ratm-gate-detection
+	url = .\\yolo-ratm-gate-detection\\
