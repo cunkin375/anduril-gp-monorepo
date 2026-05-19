@@ -7,3 +7,6 @@
 [submodule "yolo-ratm-gate-detection"]
 	path = yolo-ratm-gate-detection
 	url = .\\yolo-ratm-gate-detection\\
+[submodule "vision-pipeline-impl"]
+	path = vision-pipeline-impl
+	url = .\\vision-pipeline-impl\\
